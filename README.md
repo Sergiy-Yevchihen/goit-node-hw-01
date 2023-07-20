@@ -1,2 +1,3 @@
 # goit-node-hw-01
-![Web Page](./images/screencapture1.png)
+
+https://monosnap.com/file/reBfe2cncg5RLntqXXMSZdgG8ZZ5zo
